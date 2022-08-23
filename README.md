@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://github-readme-stats.vercel.app/api?username=dshimo0&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000")
+![](https://github-readme-streak-stats.herokuapp.com?user=dshimo0&theme=darcula&hide_border=true&background=FFFFFF00")
+
 -->
 
 ## About me
@@ -57,6 +61,8 @@ I'am enthusiast of Blockchain, IoT and Quantum technologies.
 - Chinese / 🇨🇳
 
 ![](https://github-readme-stats.vercel.app/api/?username=dshimo0&show_icons=true&theme=nord)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dshimo0&layout=compact&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php")
 
 ### My Online Resume
 > :octocat: [dshimo0.github.io](https://dshimo0.github.io)
