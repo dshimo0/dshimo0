@@ -31,7 +31,7 @@ I'am enthusiast of Blockchain, IoT and Quantum technologies.
 ![My Blog](https://img.shields.io/badge/dshimo.tech-000?style=for-the-badge&logo=ghost&logoColor=yellow)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dshimo0)
-[![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dshimo0)](https://github.com/josecastillolema)
+[![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dshimo0)](https://github.com/dshimo0)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dshimo)](https://www.linkedin.com/in/dshimo/)
 [![Linkedin Badge](https://img.shields.io/twitter/follow/dshimo_)](https://twitter.com/dshimo_)
 
