@@ -55,10 +55,10 @@ I'am enthusiast of Blockchain, IoT and Quantum technologies.
 
 ### Languages 📢
 
-- English 🇺🇸
-- Brazilian Portuguese 🇧🇷
-- Spanish 🇪🇸
-- Chinese / 🇨🇳
+- English :🇺🇸:
+- Brazilian Portuguese :🇧🇷:
+- Spanish :🇪🇸:
+- Chinese :🇨🇳:
 
 ![](https://github-readme-stats.vercel.app/api/?username=dshimo0&show_icons=true&theme=nord)
 
