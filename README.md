@@ -1,79 +1,90 @@
-### Hi there 👋
+# Hello, World! I'm dshimo0 👋
 
-<!--
-**dshimo0/dshimo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Security SME | Microsoft Infrastructure & Cloud Specialist**  
+🌱 Advocate for the **Cypherpunk** revolution & **Decentralized Identities (DiD)**  
+⚛️ Enthusiast of **Blockchain**, **IoT**, and **Quantum Technologies**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💼 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=dshimo0&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000")
-![](https://github-readme-streak-stats.herokuapp.com?user=dshimo0&theme=darcula&hide_border=true&background=FFFFFF00")
+I have been working with **Identity and Access Management (IAM / IDA)** since 2007, helping organizations build secure, scalable, and resilient infrastructures. My passion lies at the intersection of security, decentralized systems, and emerging technologies. 
 
--->
+When I'm not architecting cloud solutions or diving into smart contracts, you can find me exploring the latest in quantum computing or contributing to the open-source community.
 
-## About me
+---
 
+## 🛠️ Technologies & Tools
 
-Currently 💼 working as SME of Security, Microsoft Infrastructure and Cloud ☁️
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-I've been working with Identity and Access Management **( IAM / IDA )**,  since 2007 and supporter of Cypherpunk revolution and Descentrilized Identities **(DiD)**.
+### ⛓️ Blockchain & DLT Platforms
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Corda R3](https://img.shields.io/badge/Corda_R3-C14438?style=for-the-badge&logo=corda&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-I'am enthusiast of Blockchain, IoT and Quantum technologies.
+### ☁️ Cloud & Infrastructure
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-[![My Blog](https://img.shields.io/badge/dshimo.tech-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://dshimo.tech)
+---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dshimo0)
-[![Github Badge](https://img.shields.io/badge/-github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dshimo0)](https://github.com/dshimo0)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dshimo)](https://www.linkedin.com/in/dshimo/)
-[![Linkedin Badge](https://img.shields.io/twitter/follow/dshimo_)](https://twitter.com/dshimo_)
+## 🌍 Languages & Communication
 
+- 🇺🇸 **English**: Professional Working Proficiency
+- 🇧🇷 **Brazilian Portuguese**: Native
+- 🇪🇸 **Spanish**: Working Proficiency
+- 🇨🇳 **Chinese**: Basic/Conversational
 
-## Technologies :atom:
+---
 
-### Programming Languages 🐍
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+## 📊 GitHub Analytics
 
-### Blockchain / DLT Platforms ⛓️
-![](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![](https://img.shields.io/badge/-corda_r3-c14438?style=for-the-badge&logo=corda-r3&logoColor=white)
-![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
-### Clouds ☁️
-![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-
-### Languages 📢
-
-- English :🇺🇸:
-- Brazilian Portuguese :🇧🇷:
-- Spanish :🇪🇸:
-- Chinese :🇨🇳:
-
-![](https://github-readme-stats.vercel.app/api/?username=dshimo0&show_icons=true&theme=nord)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dshimo0&layout=compact&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php")
-
-### My Online Resume
-> :octocat: [dshimo0.github.io](https://dshimo0.github.io)
-
-
-## Support
-👍🏻 If you're my repos & happy with it or you appreciate what I do and wish to support my work, you can consider by 
-- Buy Me A Coffee ☕️
-<div align='center'>
-
-  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://buymeacoffee.com/dshimo)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dshimo0&show_icons=true&count_private=true&theme=nord&hide_border=true&hide=issues,contribs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dshimo0&theme=nord&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshimo0&layout=compact&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" width="98%" />
 </div>
-⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://dshimo.tech" target="_blank">
+    <img src="https://img.shields.io/badge/My_Blog-000000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="Blog" />
+  </a>
+  <a href="https://github.com/dshimo0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/dshimo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/dshimo_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://dshimo0.github.io" target="_blank">
+    <strong>📄 View My Online Resume</strong>
+  </a>
+</div>
+
+---
+
+## ☕ Support My Work
+
+If you find my repositories useful, or if you simply appreciate what I do and wish to support my open-source journey, consider buying me a coffee! Every contribution fuels late-night coding sessions and new projects.
+
+<div align="center">
+  <a href="https://buymeacoffee.com/dshimo" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" width="250" />
+  </a>
+  <br/><br/>
+  <em>⭐ Starring and sharing my projects is also highly appreciated. Thank you! ❤️</em>
+</div>
